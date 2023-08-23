@@ -1,0 +1,2 @@
+This is a file created in Notepad and this is info I am just adding to fill
+VS Code added Infor
